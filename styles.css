@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 
 .div{
+	position:absolute;
 	background-color:lightblue;
 	border:2px solid black;
 	padding:100px;
@@ -8,4 +9,5 @@
 	color:blueviolet;
 	
 	font-size:20px;
+	
 }
