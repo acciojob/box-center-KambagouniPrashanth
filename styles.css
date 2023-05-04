@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 
 .div{
-	position:absolute;
+	position:fixed;
 	background-color:lightblue;
 	border:2px solid black;
 	padding:100px;
